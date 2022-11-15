@@ -7,7 +7,7 @@
 
 #endif //INC_9024_C_PROJECT_INTQUEUE_H
 // Integer Queue ADO header file ... COMP9024 20T2
-#define MAXITEMS 10
+#define MAXITEMS 100
 
 void QueueInit();        // set up empty queue
 int  QueueIsEmpty();     // check whether queue is empty
